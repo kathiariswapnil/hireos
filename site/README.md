@@ -12,5 +12,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-GitHub Pages builds from `main` via `.github/workflows/deploy-pages.yml`. Local
+GitHub Pages is published from the `gh-pages` branch. Local
 dev does not use the `/hireos` base path; the Pages build sets `GITHUB_PAGES=true`.
+
+Demo requests from `/demo` append a row to the private Google Sheet **HireOS Demo Requests** (tab: Demo requests).

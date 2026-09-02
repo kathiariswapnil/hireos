@@ -2,6 +2,7 @@
 
 import { FormEvent, useState } from "react";
 import { Button } from "@/components/ui";
+import { DEMO_SHEET_WEBAPP_URL } from "@/content/demo";
 
 const FIELDS = [
   { name: "name", label: "Your name", type: "text", required: true, autoComplete: "name" },
@@ -12,14 +13,32 @@ const FIELDS = [
   { name: "volume", label: "Hires per year (approx.)", type: "text", required: false, autoComplete: "off" },
 ] as const;
 
-type Status = "idle" | "sent";
+type Status = "idle" | "submitting" | "sent" | "error";
 
 export function DemoForm() {
   const [status, setStatus] = useState<Status>("idle");
 
-  function onSubmit(event: FormEvent<HTMLFormElement>) {
+  async function onSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    setStatus("sent");
+    const form = event.currentTarget;
+    const data = Object.fromEntries(new FormData(form).entries());
+    setStatus("submitting");
+    try {
+      /* text/plain + no-cors avoids a CORS preflight; Apps Script still
+         receives the JSON body. We cannot read the opaque response. */
+      await fetch(DEMO_SHEET_WEBAPP_URL, {
+        method: "POST",
+        mode: "no-cors",
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify({
+          ...data,
+          pageUrl: window.location.href,
+        }),
+      });
+      setStatus("sent");
+    } catch {
+      setStatus("error");
+    }
   }
 
   if (status === "sent") {
@@ -71,7 +90,14 @@ export function DemoForm() {
           placeholder="Role families, current ATS, where hiring currently stalls…"
         />
       </label>
-      <Button type="submit">Request a demo</Button>
+      {status === "error" ? (
+        <p className="text-sm text-rose">
+          The request did not send. Check your connection and try again.
+        </p>
+      ) : null}
+      <Button type="submit" disabled={status === "submitting"}>
+        {status === "submitting" ? "Sending…" : "Request a demo"}
+      </Button>
     </form>
   );
 }
