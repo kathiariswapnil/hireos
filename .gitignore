@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+out/render/
+.DS_Store
+node_modules/
+.next/
+.vercel/
+.env*
+*.tsbuildinfo
