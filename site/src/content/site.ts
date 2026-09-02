@@ -12,10 +12,9 @@ export const BRAND = {
   tagline: "AI executes. Company policy governs. Humans decide.",
   metaDescription:
     "HireOS is the agentic orchestration and governance layer on top of your existing ATS and HRMS. AI executes the recruiting work. Your policy engine decides what is allowed. Humans keep every consequential decision.",
-  /* TODO: replace before launch. Mirrors PLACEHOLDERS in deck/content.py. */
-  entity: "[Entity name TBD]",
-  email: "[email TBD]",
-  phone: "[phone TBD]",
+  entity: "Swapnil Kathiari",
+  email: "kathiariswapnil@gmail.com",
+  phone: "+91 7223924422",
 } as const;
 
 export const NAV_LINKS = [
@@ -1086,7 +1085,7 @@ export const TEAM = {
   roles: [
     {
       role: "Founder / Product",
-      name: "[Founder name TBD]",
+      name: "Swapnil Kathiari",
       body: "Customer discovery, workflow design, enterprise sales, roadmap.",
       status: "In seat",
     },

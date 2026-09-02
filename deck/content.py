@@ -20,16 +20,16 @@ from __future__ import annotations
 
 DECK_TITLE = "HireOS - Pre-Seed Investor Deck"
 DECK_SUBJECT = "Enterprise Agentic Hiring Operating System"
-DECK_AUTHOR = "[Founder name TBD]"
+DECK_AUTHOR = "Swapnil Kathiari"
 
 RAISE_HEADLINE = "$1.5M pre-seed"
 RAISE_RUNWAY = "18 months"
 
 # Fill these in before sending the deck out.
 PLACEHOLDERS = {
-    "founder": "[Founder name TBD]",
-    "entity": "[Entity name TBD]",
-    "contact": "[email / phone TBD]",
+    "founder": "Swapnil Kathiari",
+    "entity": "Swapnil Kathiari",
+    "contact": "kathiariswapnil@gmail.com / +91 7223924422",
 }
 
 

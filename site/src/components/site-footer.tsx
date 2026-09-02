@@ -74,7 +74,6 @@ export function SiteFooter() {
 
         <div className="mt-14 flex flex-col gap-4 border-t border-line-soft pt-8 sm:flex-row sm:items-center sm:justify-between">
           <p className="font-mono text-[0.68rem] text-text-low">
-            {/* TODO: replace placeholders before launch. */}
             {BRAND.entity} · {BRAND.email} · {BRAND.phone}
           </p>
           <p className="font-mono text-[0.68rem] text-text-low">

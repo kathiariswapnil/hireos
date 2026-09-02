@@ -597,7 +597,6 @@ function AskSection() {
               Want the full deck and the blueprint?
             </p>
             <p className="mt-2 font-mono text-[0.7rem] text-text-low">
-              {/* TODO: replace placeholders before this page goes out. */}
               {BRAND.entity} · {BRAND.email} · {BRAND.phone}
             </p>
           </div>
