@@ -1,5 +1,7 @@
 # HireOS — Pre-Seed Investor Deck
 
+**Live site:** https://kathiariswapnil.github.io/hireos/
+
 A code-generated, fully editable PowerPoint deck for **HireOS**, the enterprise agentic hiring
 operating system, plus the brand assets that go with it.
 

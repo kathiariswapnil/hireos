@@ -24,7 +24,8 @@ const instrumentSerif = Instrument_Serif({
   display: "swap",
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://hireos.ai";
+const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://kathiariswapnil.github.io/hireos";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
