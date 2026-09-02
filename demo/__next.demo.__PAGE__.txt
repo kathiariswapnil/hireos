@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[85437,["/hireos/_next/static/chunks/1h8k51-bcgolp.js","/hireos/_next/static/chunks/0gugpp4g-qs9i.js","/hireos/_next/static/chunks/2cxu_0jsimj60.js"],"Image"]
+3:I[8283,["/hireos/_next/static/chunks/1h8k51-bcgolp.js","/hireos/_next/static/chunks/0gugpp4g-qs9i.js","/hireos/_next/static/chunks/2cxu_0jsimj60.js"],"DemoForm"]
+4:I[97367,["/hireos/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/hireos/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+a:I[97367,["/hireos/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+8:X
+20:X
+20:C
+0:{"buildId":"O3v5NnDyM8DBSEA5pg1u5","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden border-b border-line-soft","children":[["$","$L2",null,{"src":"/brand/section-decision.jpg","alt":"","fill":true,"priority":true,"sizes":"100vw","aria-hidden":true,"className":"object-cover object-right opacity-60"}],["$","div",null,{"aria-hidden":true,"className":"absolute inset-0 bg-gradient-to-r from-ink via-ink/90 to-ink/30"}],["$","div",null,{"className":"mx-auto w-full max-w-[76rem] px-5 sm:px-8 relative py-20 sm:py-28","children":[["$","p",null,{"className":"flex items-center gap-2.5 font-mono text-eyebrow uppercase text-cyan ","children":[["$","span",null,{"aria-hidden":true,"className":"gate-node size-2 shrink-0 bg-cyan"}],"Design partner program"]}],["$","h1",null,{"className":"mt-6 max-w-3xl font-display text-title text-text-hi","children":"Request a demo"}],["$","p",null,{"className":"mt-6 max-w-xl text-lead text-text-mid","children":"Tell us how you hire today. We will walk one real requisition through HireOS — AI does the work, your policy engine governs, your team keeps every consequential decision."}]]}]]}],["$","section",null,{"className":"border-b border-line-soft py-16 sm:py-24","children":["$","div",null,{"className":"mx-auto w-full max-w-[76rem] px-5 sm:px-8 ","children":["$","div",null,{"className":"grid gap-12 lg:grid-cols-[1fr_0.85fr] lg:gap-20","children":[["$","$L3",null,{}],["$","aside",null,{"className":"space-y-8 lg:pt-2","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-mono text-eyebrow uppercase tracking-wider text-cyan","children":"What we will cover"}],["$","ul",null,{"className":"mt-5 space-y-3 text-sm leading-relaxed text-text-mid","children":[["$","li",null,{"children":"One natural-language hiring request becoming a governed workflow"}],["$","li",null,{"children":"Policy engine blocking an out-of-band salary before a human ever sees it"}],["$","li",null,{"children":"Evidence-based shortlist — matched requirements, gaps, confidence — not a black-box score"}],["$","li",null,{"children":"What a paid pilot looks like for one business unit"}]]}]]}],["$","div",null,{"className":"rounded-xl border border-line bg-surface p-6","children":[["$","p",null,{"className":"font-mono text-eyebrow uppercase tracking-wider text-amber","children":"Who this is for"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-text-mid","children":"TA leaders, HR ops, and hiring managers at companies that already run an ATS and want orchestration and governance on top of it — not another system to rip and replace."}]]}]]}]]}]}]}]],[["$","script","script-0",{"src":"/hireos/_next/static/chunks/2cxu_0jsimj60.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Request a demo — HireOS"}],["$","meta","1",{"name":"description","content":"Book a HireOS walkthrough. We will run one hiring request through the governed workflow — requisition, JD, policy, approval, candidate intelligence, shortlist."}],["$","meta","2",{"name":"keywords","content":"agentic hiring,AI recruiting orchestration,hiring policy engine,enterprise HR AI,ATS orchestration layer,AI governance hiring"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"HireOS — The Enterprise Agentic Hiring Operating System"}],["$","meta","5",{"property":"og:description","content":"HireOS is the agentic orchestration and governance layer on top of your existing ATS and HRMS. AI executes the recruiting work. Your policy engine decides what is allowed. Humans keep every consequential decision."}],["$","meta","6",{"property":"og:url","content":"https://kathiariswapnil.github.io/hireos/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],"$L1c"]}],"isPartial":"$@1d","staleTime":"$8","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$8","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[27201,["/hireos/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+24:I[39756,["/hireos/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+25:I[37457,["/hireos/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:null
+b:["$","meta","7",{"property":"og:site_name","content":"HireOS"}]
+c:["$","meta","8",{"property":"og:image","content":"https://kathiariswapnil.github.io/hireos/opengraph-image?cb677378ec2fd831"}]
+d:["$","meta","9",{"property":"og:image:type","content":"image/png"}]
+e:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+f:["$","meta","11",{"property":"og:image:height","content":"630"}]
+10:["$","meta","12",{"property":"og:image:alt","content":"HireOS — AI executes. Company policy governs. Humans decide."}]
+11:["$","meta","13",{"property":"og:type","content":"website"}]
+12:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+13:["$","meta","15",{"name":"twitter:title","content":"HireOS — The Enterprise Agentic Hiring Operating System"}]
+14:["$","meta","16",{"name":"twitter:description","content":"HireOS is the agentic orchestration and governance layer on top of your existing ATS and HRMS. AI executes the recruiting work. Your policy engine decides what is allowed. Humans keep every consequential decision."}]
+15:["$","meta","17",{"name":"twitter:image","content":"https://kathiariswapnil.github.io/hireos/opengraph-image?cb677378ec2fd831"}]
+16:["$","meta","18",{"name":"twitter:image:alt","content":"HireOS — AI executes. Company policy governs. Humans decide."}]
+17:["$","meta","19",{"name":"twitter:image:type","content":"image/png"}]
+18:["$","meta","20",{"name":"twitter:image:width","content":"1200"}]
+19:["$","meta","21",{"name":"twitter:image:height","content":"630"}]
+1a:["$","link","22",{"rel":"icon","href":"/hireos/icon.svg?icon.1k9r6oysw7qpx.svg","sizes":"any","type":"image/svg+xml"}]
+1b:["$","$L23","23",{}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1e:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+22:true
+8:300
+8:C
+21:0
+1d:"$undefined"
+1f:"$undefined"
+7:"$undefined"
